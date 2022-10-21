@@ -1,25 +1,8 @@
 <h3 align="center">Welcome :thumbsup:</h3>
 <p align="center">
   <br><br>
-  <img src="https://media4.giphy.com/media/4frjfcGzMznqpyMhat/giphy.gif?cid=790b7611e26655375a397246c088b5204b88453a75cc11ea&rid=giphy.gif&ct=g" />
+  <img src="https://raw.githubusercontent.com/Geo-Leo/geo-leo/main/giphy.gif" />
 </p>
-
-<!--
-Some ideas for later:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
 
 <!--
 **Geo-Leo/geo-leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
