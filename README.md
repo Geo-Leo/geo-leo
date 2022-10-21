@@ -1,11 +1,5 @@
-### Hi there 👋
-
-
-
-<h3 align="center">Welcome</h3>
+<h3 align="center">Welcome :thumbsup:</h3>
 <p align="center">
-  <a href="https://workwithcarolyn.com">Website</a> /
-  <a href="https://twitter.com/carolstran">Twitter</a>
   <br><br>
   <img src="https://media4.giphy.com/media/4frjfcGzMznqpyMhat/giphy.gif?cid=790b7611e26655375a397246c088b5204b88453a75cc11ea&rid=giphy.gif&ct=g" />
 </p>
