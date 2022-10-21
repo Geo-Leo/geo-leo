@@ -1,5 +1,32 @@
 ### Hi there 👋
 
+
+
+<h3 align="center">Welcome</h3>
+<p align="center">
+  <a href="https://workwithcarolyn.com">Website</a> /
+  <a href="https://twitter.com/carolstran">Twitter</a>
+  <br><br>
+  <img src="https://media4.giphy.com/media/4frjfcGzMznqpyMhat/giphy.gif?cid=790b7611e26655375a397246c088b5204b88453a75cc11ea&rid=giphy.gif&ct=g" />
+</p>
+
+<!--
+Some ideas for later:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+
+
 <!--
 **Geo-Leo/geo-leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
