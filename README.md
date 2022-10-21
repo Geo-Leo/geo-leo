@@ -1,7 +1,7 @@
-<h3 align="center">Welcome :thumbsup:</h3>
+<h3 align="center">Hello! :thumbsup:</h3>
 <p align="center">
   <br><br>
-  <img src="https://raw.githubusercontent.com/Geo-Leo/geo-leo/main/giphy.gif" />
+  <img src="https://github.com/Geo-Leo/geo-leo/blob/main/world.gif?raw=true" />
 </p>
 
 <!--
