@@ -1,6 +1,5 @@
-<h3 align="center">Hello! :thumbsup:</h3>
+<h3 align="center">Hello world! 🌐</h3>
 <p align="center">
-  <br><br>
   <img src="https://github.com/Geo-Leo/geo-leo/blob/main/world.gif?raw=true" />
 </p>
 
